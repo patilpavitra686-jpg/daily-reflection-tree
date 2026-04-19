@@ -4,7 +4,7 @@ This submission is part of the DeepThought Fellowship assignment to design a det
 
 ---
 
-## 🧠 Objective
+##  Objective
 
 The objective of this assignment is to build a reflection tool that guides users through a structured end-of-day analysis using predefined questions and deterministic branching.
 
@@ -12,7 +12,7 @@ The system avoids AI at runtime and instead encodes logic directly into the tree
 
 ---
 
-## 🧩 Approach
+##  Approach
 
 The reflection process is designed across three psychological axes:
 
@@ -30,7 +30,7 @@ Agency → Contribution → Perspective
 
 ---
 
-## ⚙️ Design Principles
+##  Design Principles
 
 - Deterministic logic (same input → same output)  
 - Fixed answer options (no free-text input)  
@@ -38,7 +38,7 @@ Agency → Contribution → Perspective
 - Reflections designed to increase awareness without judgment  
 
 ---
-## 🔄 How the System Works
+##  How the System Works
 
 - The user is guided through a sequence of predefined questions  
 - Each answer leads to a deterministic path in the tree  
@@ -47,15 +47,15 @@ Agency → Contribution → Perspective
 
 ---
 
-## 📌 Notes
+##  Notes
 
 This submission focuses on clarity, structure, and deterministic design rather than complexity.  
 The goal is to demonstrate how psychological concepts can be translated into a structured decision system.
 
 ---
 
-## 👤 Author
+##  Author
 
 Pavitra Patil
 
-## 📁 Submission Structure
+## Submission Structure
